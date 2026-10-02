@@ -4,6 +4,10 @@
 // ============================================================
 //
 // Este arquivo começa sem código, de propósito.
+document.addEventListener('DOMContentLoaded', function () {
+    console.log('DevLab — página carregada com sucesso!');
+});
+
 //
 // Na Parte 4 do roteiro, o Aluno A adiciona aqui uma mensagem
 // que aparece no console do navegador. Para vê-la, abra a página,
